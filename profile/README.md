@@ -14,13 +14,9 @@
   <a href="https://www.linkedin.com/company/leps-tech"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leps%20Technologies-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
----
-
 ## 🛠 About Us
 Leps Technologies is an R&amp;D‑driven software company focused on **digital transformation for hydraulic‑fracturing and production optimization**.  
 From real‑time downhole analytics to AI‑enhanced decision support, we build the tools that let engineers **design safer wells, reduce NPT, and unlock greater hydrocarbon recovery**.
-
----
 
 ## 🚀 Flagship Products
 
@@ -31,14 +27,10 @@ From real‑time downhole analytics to AI‑enhanced decision support, we build 
 | **Vac** (Volume Anti‑Channeling) | Novel fracture‑enhancement tech combining chemistry + physics models. | Hybrid numerical solver + ML surrogate models |
 | **LEPS AI** | Secure, internal LLM platform (ChatGPT‑like) serving hundreds of daily oil‑&‑gas queries. | PyTorch, Retrieval‑Augmented Generation, Kubernetes |
 
----
-
 ## 💡 Research Focus
 - **AI‑Driven Stimulation Design** – fuzzy‑logic production prediction, fracture‑feature estimation.  
 - **Real‑Time Edge Analytics** – gyroscope &amp; pressure‑sensor fusion for screen‑out avoidance.  
 - **Large‑Scale Simulation** – distributed Monte‑Carlo &amp; finite‑element solvers on GPU clusters.
-
----
 
 ## 🛠 Tech Stack
 
@@ -50,8 +42,6 @@ From real‑time downhole analytics to AI‑enhanced decision support, we build 
 | DevOps | Docker, GitHub Actions, Helm + K8s, Terraform |
 | AI / ML | PyTorch, TensorFlow, ONNX, Weights &amp; Biases |
 
----
-
 ## 🤝 Contributing
 
 We ❤️ open source &amp; welcome PRs!  
@@ -61,8 +51,6 @@ We ❤️ open source &amp; welcome PRs!
 
 Looking for a first issue? Try <kbd>good first issue</kbd> or <kbd>help wanted</kbd> labels.
 
----
-
 ## 📣 Stay Connected
 | Purpose | Contact |
 |---------|---------|
@@ -70,12 +58,8 @@ Looking for a first issue? Try <kbd>good first issue</kbd> or <kbd>help wante
 | Partnership &amp; sales | <a href="mailto:partnership@cdleps.com">partnership@cdleps.com</a> |
 | Careers | <a href="https://en.cdleps.com/careers">en.cdleps.com/careers</a> |
 
----
-
 ## 📜 License
 Unless otherwise noted, code in this organization is released under the **MIT License**. See individual repositories for details.
-
----
 
 <p align="center">
   <em>“Turning subsurface data into upstream value.”</em>
