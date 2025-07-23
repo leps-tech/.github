@@ -2,7 +2,7 @@
 <!-- Place this file at /.github/profile/README.md (preferred) or at the root of a repo named “.github” -->
 
 <h1 align="center">
-  <img src="https://en.cdleps.com/assets/logo.svg" alt="Leps Technologies logo" height="80"><br/>
+  <img src="https://en-x-cdleps-x-com.img.addlink.cn/Uploadfiles/Picture/2025-3-31/2025331187348511.png" alt="Leps Technologies logo" height="80"><br/>
   Leps Technologies Co.
 </h1>
 
